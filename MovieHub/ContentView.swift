@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MovieHub
 //
-//
+// Oleksandra Kovtunova
 //
 
 import SwiftUI
